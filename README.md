@@ -10,3 +10,4 @@ An easy to play battleship CLI game developped in java
 ```
 java -jar dist/Bataille-navale.jar
 ```
+
