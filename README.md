@@ -12,4 +12,4 @@ java -jar dist/Bataille-navale.jar
 ```
 
 ## GUI
-[!gui](gui.png)
+![gui](gui.png)
