@@ -96,7 +96,7 @@ public class Tools {
      
      //fonction spécial Mr Fornier 
      public static void hello () {
-        System.out.println("\n GoodMorning Mr De Montety !!\n");
+        System.out.println("\n Hello Player!!\n");
         delay(3000);
         
         String sentence1 = " I HOPE YOU ARE READY FOR THE FINAL WAR !! ";
